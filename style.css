@@ -1,0 +1,23 @@
+h1, h2 {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.icebear {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+}
+
+
+ul {
+    text-align: center;
+}
+
+
+
+.bottomlink {
+    text-align: center;
+}
+
