@@ -16,8 +16,24 @@ ul {
 }
 
 
-
 .bottomlink {
     text-align: center;
 }
 
+
+.foodtitle {
+    color: orange;
+}
+
+
+
+.link {
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
